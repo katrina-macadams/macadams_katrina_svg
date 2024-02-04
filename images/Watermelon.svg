@@ -1,121 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 526.05 534.86">
-  <defs>
-    <style>
-      .cls-1 {
-        stroke-width: 5px;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
-        stroke-miterlimit: 10;
-      }
-
-      .cls-1, .cls-4, .cls-14 {
-        fill: #fff;
-        stroke: #fff;
-      }
-
-      .cls-2, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-16 {
-        stroke: #000;
-      }
-
-      .cls-2, .cls-12, .cls-13, .cls-14, .cls-15 {
-        stroke-width: 6px;
-      }
-
-      .cls-3 {
-        fill: #ef8481;
-        stroke: #f08481;
-      }
-
-      .cls-3, .cls-4, .cls-7, .cls-11 {
-        stroke-width: 10px;
-      }
-
-      .cls-5 {
-        fill: #f2cccb;
-        stroke: #f3cccb;
-      }
-
-      .cls-5, .cls-6, .cls-9 {
-        stroke-width: 2px;
-      }
-
-      .cls-6 {
-        fill: #f3cccb;
-        stroke: #f1cccc;
-      }
-
-      .cls-7, .cls-10, .cls-16 {
-        fill: none;
-      }
-
-      .cls-8 {
-        stroke-width: 9px;
-      }
-
-      .cls-10 {
-        stroke-width: 11px;
-      }
-
-      .cls-12 {
-        fill: #f1cccc;
-      }
-
-      .cls-13 {
-        fill: #f08481;
-      }
-
-      .cls-15 {
-        fill: #4ba64a;
-        stroke: #4ca649;
-      }
-
-      .cls-16 {
-        stroke-width: 7px;
-      }
-
-      .cls-17 {
-        fill: #4ca649;
-        stroke-width: 0px;
-      }
-    </style>
-  </defs>
-  <g id="layer_melon_base">
-    <g id="melon_base">
-      <path id="base" class="cls-11" d="M271.35,8.69L5.05,387.29s4.6,157.6,378,141.4c57-2.5,138-60.6,138-143.3,0-21.5-249.7-376.7-249.7-376.7Z"/>
-    </g>
-  </g>
-  <g id="layer_melon_colours">
-    <g id="melon_colours">
-      <path id="pink_front" class="cls-3" d="M284.25,85.79s36.1,249.4,36.4,250.1c.2.6-81.5,162.3,84.8,108.6,26.3-8.5,68.8-39.9,77.1-74.6,2.4-9.6-198.3-284.1-198.3-284.1Z"/>
-      <polygon id="light_pink_side" class="cls-5" points="225.05 121.79 94.05 379.69 160.75 378.79 225.05 121.79"/>
-      <path id="light_pink_front" class="cls-6" d="M276.75,68.99l-77.4,291.6s37.2,98.1,139.3,98.1c6.7,0-53.3-379.7-53.3-379.7l-8.6-10Z"/>
-      <polygon id="edge_reflection_2" class="cls-1" points="52.25 360.39 175.15 361.89 170.45 381.19 44.65 381.19 52.25 360.39"/>
-      <path id="shadow" class="cls-9" d="M180.45,443.29c-4.3-12.4,8.6-20.1,15.2-12.5,11.7,13.6,16.9,26.2,35.6,32.9,17,6.1,14.6,31.9-10.9,17.5-2.5-1.4-33.3-18.9-39.9-37.9Z"/>
-      <path id="green_botom" class="cls-15" d="M79.65,397.09s30.9,97.3,166.6,103.7c4,.2,11.5-9,15.3-14.3,0,0,124.1,70.5,218.2-43.6,17.5-21.2,16-52.1,16-52.1,0,0-14.8,40.2-65.3,69.5-142.3,82.7-244.2-65.7-244.2-65.7,0,0-49.5.7-60.9,1.4-4.2.4-45.7,1.1-45.7,1.1Z"/>
-      <path id="green_edge_2" class="cls-15" d="M86.15,376.09l-4.4,5.1,88.8-.4s2.4-9,2.8-11.3l-87.2,6.6Z"/>
-      <path id="bottom_relfection" class="cls-14" d="M75.05,397.29l-42.2-.2s5.8,31.7,46.8,57.3c67.4,42,99.9,37.5,99.9,37.5,0,0-37.3-17.4-69.4-46.1-39.7-35.5-33.5-44.7-35.1-48.5Z"/>
-      <polyline id="green_edge" class="cls-17" points="79.25 368.39 161.65 368.39 157.95 381.89 70.55 382.19"/>
-      <polygon id="edge_reflection" class="cls-4" points="48.75 365.09 38.45 378.79 76.65 378.89 85.35 365.29 48.75 365.09"/>
-    </g>
-  </g>
-  <g id="layer_melon_seeds">
-    <g id="melon_seeds">
-      <path id="out_seed_3" class="cls-2" d="M320.65,397.29c0-12.9,23.5-46.6,23.5-46.6,0,0,23.5,33.7,23.5,46.6s-10.5,23.4-23.5,23.4-23.5-10.5-23.5-23.4Z"/>
-      <path id="out_seed_2" class="cls-2" d="M243.05,369.59c0-12.4,21.9-44.6,21.9-44.6,0,0,21.9,32.3,21.9,44.6s-9.8,22.4-21.9,22.4c-12.1-.1-21.9-10.1-21.9-22.4Z"/>
-      <path id="out_seed_1" class="cls-2" d="M386.65,370.09c0-12.9,23.5-46.6,23.5-46.6,0,0,23.5,33.7,23.5,46.6s-10.5,23.3-23.5,23.3-23.5-10.4-23.5-23.3Z"/>
-      <path id="seed_3" class="cls-12" d="M249.75,368.49c0-9,15.5-32.5,15.5-32.5,0,0,15.5,23.5,15.5,32.5s-6.9,16.3-15.5,16.3c-8.6,0-15.5-7.3-15.5-16.3Z"/>
-      <path id="seed_2" class="cls-13" d="M327.15,397.19c0-9.8,17.4-35.3,17.4-35.3,0,0,17.4,25.5,17.4,35.3s-7.8,17.7-17.4,17.7-17.4-7.9-17.4-17.7Z"/>
-      <path id="seed_1" class="cls-13" d="M394.65,369.09c0-9.2,15.5-33.1,15.5-33.1,0,0,15.5,24,15.5,33.1s-6.9,16.6-15.5,16.6-15.5-7.5-15.5-16.6Z"/>
-    </g>
-  </g>
-  <g id="layer_melon_outlines">
-    <g id="melon_outline">
-      <path id="edge_outline" class="cls-10" d="M55.05,360.39h118.3s30.6,23.7,3.4,27.3c-4.1.5-153.3.7-161.7.7-.1,0-.1-.2-.1-.2l40.1-27.8Z"/>
-      <path id="front_outline" class="cls-16" d="M277.65,67.49l-78.3,293.1s7.3,32.4,36.8,60.1c38.1,35.5,107.7,64.4,189.5,18.5,45-25.2,63.9-70.8,63.9-70.8L277.65,67.49Z"/>
-      <path id="bottom_shadow" class="cls-8" d="M179.05,441.39s10.6,23.8,46,42.4c16.4,8.6,25.2-12.3,5.4-20.5-10.9-4.5-19.6-24.6-33.3-29.4-22.4-10.8-18.1,7.5-18.1,7.5Z"/>
-      <polygon id="side_shadow" class="cls-7" points="236.15 104.59 58.15 356.69 103.45 356.69 236.15 104.59"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#EF8481;stroke:#F08481;stroke-width:10;stroke-miterlimit:10;}
+	.st2{fill:#F2CCCB;stroke:#F3CCCB;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#F3CCCB;stroke:#F1CCCC;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:#4BA64A;stroke:#4CA649;stroke-width:6;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st8{fill:#4CA649;}
+	.st9{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st10{stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st11{fill:#F1CCCC;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st12{fill:#F08481;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#000000;stroke-width:11;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st15{stroke:#000000;stroke-width:9;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g id="layer_x5F_melon_x5F_base">
+	<g id="melon_x5F_base">
+		<path id="base" class="st0" d="M429.2,37.1L162.9,415.7c0,0,4.6,157.6,378,141.4c57-2.5,138-60.6,138-143.3
+			C678.9,392.3,429.2,37.1,429.2,37.1z"/>
+	</g>
+</g>
+<g id="layer_x5F_melon_x5F_colours">
+	<g id="melon_x5F_colours">
+		<path id="pink_x5F_front" class="st1" d="M442.1,114.2c0,0,36.1,249.4,36.4,250.1c0.2,0.6-81.5,162.3,84.8,108.6
+			c26.3-8.5,68.8-39.9,77.1-74.6C642.8,388.7,442.1,114.2,442.1,114.2z"/>
+		<polygon id="light_x5F_pink_x5F_side" class="st2" points="382.9,150.2 251.9,408.1 318.6,407.2 		"/>
+		<path id="light_x5F_pink_x5F_front" class="st3" d="M434.6,97.4L357.2,389c0,0,37.2,98.1,139.3,98.1c6.7,0-53.3-379.7-53.3-379.7
+			L434.6,97.4z"/>
+		<polygon id="edge_x5F_reflection_x5F_2" class="st4" points="210.1,388.8 333,390.3 328.3,409.6 202.5,409.6 		"/>
+		<path id="shadow" class="st5" d="M338.3,471.7c-4.3-12.4,8.6-20.1,15.2-12.5c11.7,13.6,16.9,26.2,35.6,32.9
+			c17,6.1,14.6,31.9-10.9,17.5C375.7,508.2,344.9,490.7,338.3,471.7z"/>
+		<path id="green_x5F_botom" class="st6" d="M237.5,425.5c0,0,30.9,97.3,166.6,103.7c4,0.2,11.5-9,15.3-14.3
+			c0,0,124.1,70.5,218.2-43.6c17.5-21.2,16-52.1,16-52.1s-14.8,40.2-65.3,69.5C446,571.4,344.1,423,344.1,423s-49.5,0.7-60.9,1.4
+			C279,424.8,237.5,425.5,237.5,425.5z"/>
+		<path id="green_x5F_edge_x5F_2" class="st6" d="M244,404.5l-4.4,5.1l88.8-0.4c0,0,2.4-9,2.8-11.3L244,404.5z"/>
+		<path id="bottom_x5F_relfection" class="st7" d="M232.9,425.7l-42.2-0.2c0,0,5.8,31.7,46.8,57.3c67.4,42,99.9,37.5,99.9,37.5
+			s-37.3-17.4-69.4-46.1C228.3,438.7,234.5,429.5,232.9,425.7z"/>
+		<polyline id="green_x5F_edge" class="st8" points="237.1,396.8 319.5,396.8 315.8,410.3 228.4,410.6 		"/>
+		<polygon id="edge_x5F_reflection" class="st9" points="206.6,393.5 196.3,407.2 234.5,407.3 243.2,393.7 		"/>
+	</g>
+</g>
+<g id="layer_x5F_melon_x5F_seeds">
+	<g id="melon_x5F_seeds">
+		<path id="out_x5F_seed_x5F_3" class="st10" d="M478.5,425.7c0-12.9,23.5-46.6,23.5-46.6s23.5,33.7,23.5,46.6S515,449.1,502,449.1
+			S478.5,438.6,478.5,425.7z"/>
+		<path id="out_x5F_seed_x5F_2" class="st10" d="M400.9,398c0-12.4,21.9-44.6,21.9-44.6s21.9,32.3,21.9,44.6
+			c0,12.4-9.8,22.4-21.9,22.4C410.7,420.3,400.9,410.3,400.9,398z"/>
+		<path id="out_x5F_seed_x5F_1" class="st10" d="M544.5,398.5c0-12.9,23.5-46.6,23.5-46.6s23.5,33.7,23.5,46.6S581,421.8,568,421.8
+			S544.5,411.4,544.5,398.5z"/>
+		<path id="seed_x5F_3" class="st11" d="M407.6,396.9c0-9,15.5-32.5,15.5-32.5s15.5,23.5,15.5,32.5s-6.9,16.3-15.5,16.3
+			C414.5,413.2,407.6,405.9,407.6,396.9z"/>
+		<path id="seed_x5F_2" class="st12" d="M485,425.6c0-9.8,17.4-35.3,17.4-35.3s17.4,25.5,17.4,35.3s-7.8,17.7-17.4,17.7
+			S485,435.4,485,425.6z"/>
+		<path id="seed_x5F_1" class="st12" d="M552.5,397.5c0-9.2,15.5-33.1,15.5-33.1s15.5,24,15.5,33.1c0,9.2-6.9,16.6-15.5,16.6
+			S552.5,406.6,552.5,397.5z"/>
+	</g>
+</g>
+<g id="layer_x5F_melon_x5F_outlines">
+	<g id="melon_x5F_outline">
+		<path id="edge_x5F_outline" class="st13" d="M212.9,388.8h118.3c0,0,30.6,23.7,3.4,27.3c-4.1,0.5-153.3,0.7-161.7,0.7
+			c-0.1,0-0.1-0.2-0.1-0.2L212.9,388.8z"/>
+		<path id="front_x5F_outline" class="st14" d="M435.5,95.9L357.2,389c0,0,7.3,32.4,36.8,60.1c38.1,35.5,107.7,64.4,189.5,18.5
+			c45-25.2,63.9-70.8,63.9-70.8L435.5,95.9z"/>
+		<path id="bottom_x5F_shadow" class="st15" d="M336.9,469.8c0,0,10.6,23.8,46,42.4c16.4,8.6,25.2-12.3,5.4-20.5
+			c-10.9-4.5-19.6-24.6-33.3-29.4C332.6,451.5,336.9,469.8,336.9,469.8z"/>
+		<polygon id="side_x5F_shadow" class="st16" points="394,133 216,385.1 261.3,385.1 		"/>
+	</g>
+</g>
 </svg>
