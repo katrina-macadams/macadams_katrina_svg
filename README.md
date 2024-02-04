@@ -1,7 +1,6 @@
 # Interactive SVG Icons
 
-A built a branded, scalable themed icon set using Adobe Illustrator. Exported using each icon from Illustrator as an SVG. Used as assets on the FIP/Brand Revival site. Added some simple interactivity with
-JavaScript. And used HTML to include a description of the icon set.
+A themed icon set using Adobe Illustrator. SVG's exported from Illustrator as an SVG and added some simple interactivity with JavaScript. And used HTML to include a description of the icon set.
 
 ## Installation
 

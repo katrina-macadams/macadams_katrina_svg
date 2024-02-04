@@ -2,15 +2,44 @@
     display: none;
 }
 
-
-#cherry:hover #cherry_x5F_leaf {
-    transform: rotate( 10deg);
-}
-
-#watermelon:hover {
-    filter: drop-shadow(8px 2px 2px #a60926);
+/* Avocado and Grape */
+#avocado #grape {
+    display: grid;
 }
 
 .svg:hover {    
     filter:hue-rotate(30deg);
 }
+
+/* Lemon and Cherry */
+
+#cherry:hover #cherry_x5F_leaf {
+    transform: rotate( 10deg);
+}
+
+#lemon {
+    filter: blur(2px);
+}
+
+#lemon:hover {
+    filter: none;
+}
+
+/* Watermelon and Peach */
+#watermelon:hover {
+    filter: drop-shadow(8px 2px 2px #a60926);
+}
+
+#watermon {
+    margin-right: 90px;
+}
+
+#peach {
+    margin-left: 110px;
+}
+#peach:hover #pink_peach {
+    fill: rgb(255, 133, 88);
+ }
+
+
+
