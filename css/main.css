@@ -1,0 +1,16 @@
+.hidden {
+    display: none;
+}
+
+
+#cherry:hover #cherry_x5F_leaf {
+    transform: rotate( 10deg);
+}
+
+#watermelon:hover {
+    filter: drop-shadow(8px 2px 2px #a60926);
+}
+
+.svg:hover {    
+    filter:hue-rotate(30deg);
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#ECECB9;stroke:#ECECB9;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-width:9;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st5{fill:#60AA4C;stroke:#63AB48;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:#EDA836;stroke:#ECA83A;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="avocado_x5F_outline_x5F_base">
+	<path class="st0" d="M388.8,33.9c-3,0.5-70,3.3-78.7,127.9c-5.7,81.8-40.7,88.2-59.3,153.7c-19,66.9-15.4,167.4,112.5,190
+		s193.8-47.5,212.3-108s-32.7-125.8-48.2-152.7c-17.2-29.7-35.4-81.7-36.8-99.7C486.2,89.9,438.6,26.3,388.8,33.9z"/>
+	<path class="st1" d="M377.8,72.8c-9.3-5-12.2,4.6-31.7,113.5c-4.1,23.1-35.7,88.5-36.7,91.8c-7.5,23.4-60.2,121.9,15,185.7
+		c12.3,10.5,48,21.7,87.6,13.5c23.7-4.9,105.6-63,38.2-183.6c-2.5-4.5-37-61.1-37-116.6c0-17.4-7.7-50.2-12.5-73.4
+		c-5.3-25.2-19.7-29.2-22.4-30.7C378.1,73,378,72.9,377.8,72.8z"/>
+	<path class="st2" d="M393.4,54.7c-2.5,0.4-59-2.1-66.3,109.5c-4.8,73.3-38,90.2-53.6,148.9c-15.9,59.9-12.9,150,94.4,170.2
+		s171.5-33.1,187-87.3c15.3-53.6-36.3-122.1-49.3-146.2c-14.4-26.6-27.3-73.6-30.9-89.3C460,95.4,435.2,48,393.4,54.7z"/>
+	<path class="st2" d="M407.1,61c8.4,3.7,20.2,14.4,28.4,118.8c3,38.2,32,97.7,43.6,113.5c11.6,15.9,59.3,134.1-30.9,197.1
+		c-4.3,3-59.5,7.3-47.7,1.9c34.4-15.6,109.9-45.5,70.7-160.2c-9.9-28.8-53.1-95.6-53.1-136.6c0,0-8.5-83.8-14.2-104.2
+		c-4-14.3-23.9-22.8-31.5-27.2c-1.6-0.9-1.1-3.3,0.7-3.5C380.9,59.9,400.7,58.2,407.1,61z"/>
+	<ellipse class="st3" cx="366.7" cy="362.6" rx="59" ry="59.5"/>
+	<ellipse class="st4" cx="366.5" cy="362.6" rx="50.6" ry="51"/>
+	<ellipse class="st2" cx="366.5" cy="362.6" rx="50.6" ry="51"/>
+</g>
+<g id="avocado_x5F_colours">
+	<path class="st5" d="M440.7,87.3c0,0,3.2,9.4,7.6,71.4c3.8,54.7,39.1,100.5,53.4,132.5c50.9,114-25.5,177.6-25.5,177.6
+		s110.6-36.2,63.8-141.6c-24.7-55.6-46.7-76.5-73.4-173.2C452,100.8,440.7,87.3,440.7,87.3z"/>
+	<path class="st6" d="M384,318.9c-16-3.7-59.7,58-34.1,85.1c6.6,7,37.4,3.8,52.4-15.7C413.6,373.6,427,328.7,384,318.9z"/>
+</g>
+<g id="avocado_x5F_outline">
+	<ellipse class="st2" cx="366.5" cy="362.6" rx="50.6" ry="51"/>
+</g>
+</svg>
